@@ -1,0 +1,93 @@
+.entire-holstee{
+  width: 400px;
+  height: 1000px;
+  border: 10px solid #2d5986;
+  font-family: 'Oswald', sans-serif;
+}
+
+.full-box{
+  width: 190px;
+  height: 360px;
+  padding: 20px 5px 20px 5px;
+  text-align: center;
+
+
+}
+
+.half-box{
+  text-align: center;
+
+}
+
+.quattrocento{
+  font-family: 'Quattrocento', serif;
+  font-weight: 900;
+}
+
+
+#left-1{
+  background-color: #ff8080;
+  float: left;
+  font-size: 23px;
+
+}
+
+#right-1{
+  background-color: #999999;
+  float: right;
+  width: 150px;
+  height: 150px;
+  padding:25px;
+}
+
+#right-2{
+  background-color: #336699;
+  float: right;
+  width: 150px;
+  height: 150px;
+  padding:25px;
+}
+
+#left-2{
+  background-color: #999999;
+  float: left;
+  width: 150px;
+  height: 150px;
+  padding:25px;
+}
+
+#right-3{
+  background-color: #ffb3b3;
+  float: right;
+  width: 150px;
+  height: 150px;
+  padding:25px;
+}
+
+#left-3{
+  background-color: #336699;
+  float: left;
+  width: 180px;
+  height: 70px;
+  padding: 65px 10px 65px 10px;
+
+
+}
+
+#left-4{
+  background-color: #ffb3b3;
+  float: left;
+  clear: left;
+  width: 180px;
+  height: 70px;
+  padding: 65px 10px 65px 10px;
+}
+
+#right-4{
+  background-color: #ff8080;
+  float: right;
+  font-size: 23px;
+}
+/*Google Fonts Used*/
+font-family: 'Oswald', sans-serif;
+font-family: 'Quattrocento', serif;
